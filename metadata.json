@@ -1,0 +1,6 @@
+{
+  "name": "Mopani Singles-v2",
+  "description": "Safe, verified matchmaking and community connection for singles in Mopani District (Maruleng, Tzaneen, Greater Letaba, Phalaborwa, Giyani) with POPIA compliance, admin moderation, image cropping, and WhatsApp integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
